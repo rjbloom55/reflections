@@ -5,3 +5,7 @@ To get ready to put files in the respository.  btw, I wonder what happened to th
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Things that are ready to be committed, but you haven't done it yet.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+  When I've made an experimental change.  Or to keep my changes separate from main branch that others are working on.
