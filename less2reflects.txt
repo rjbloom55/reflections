@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+To get ready to put files in the respository.  btw, I wonder what happened to the other file I created.  Was that a Notepad++ bug?
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Things that are ready to be committed, but you haven't done it yet.
