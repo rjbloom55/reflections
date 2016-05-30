@@ -9,3 +9,7 @@ Things that are ready to be committed, but you haven't done it yet.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
   When I've made an experimental change.  Or to keep my changes separate from main branch that others are working on.
+  
+  What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Pro: less work.  
